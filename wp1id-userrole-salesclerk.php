@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name:   User Role Sales Clerk
- * Plugin URI:    https://github.com/1idweb/wp1id-userrole-salesclerk
- * Author:        1idweb
- * Author URI:    https://1idweb.com
- * Text Domain:   userrole-salesclerk
- * Domain Path:   /languages
+ * Plugin Name: 1id. User Role Sales Clerk
+ * Plugin URI:  https://github.com/1idweb/wp1id-userrole-salesclerk
+ * Author:      1idweb
+ * Author URI:  https://1idweb.com
+ * Text Domain: userrole-salesclerk
+ * Domain Path: /languages
  */
 
 function rename_existing_role() {
